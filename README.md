@@ -127,19 +127,29 @@ Successfully built an interactive **Power BI Dashboard** and generated actionabl
 
 ---
 
-## 📸 Dashboard Preview
+# 📸 Dashboard Preview
 
-### 📋 Executive Summary
-(Add Screenshot Here)
+## 📋 Executive Summary Dashboard
 
-### 👥 Customer Analysis
-(Add Screenshot Here)
+![Executive Summary](Screenshots/Executive_Summary.png)
 
-### 📦 Product Analysis
-(Add Screenshot Here)
+---
 
-### 📊 Market Insights
-(Add Screenshot Here)
+## 👥 Customer Analysis Dashboard
+
+![Customer Analysis](Screenshots/Customer_Analysis.png)
+
+---
+
+## 📦 Product Analysis Dashboard
+
+![Product Analysis](Screenshots/Product_Analysis.png)
+
+---
+
+## 📊 Market Insights Dashboard
+
+![Market Insights](Screenshots/Market_Insights.png)
 
 ---
 
