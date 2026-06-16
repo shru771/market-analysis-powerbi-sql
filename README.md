@@ -137,7 +137,7 @@ Successfully built an interactive **Power BI Dashboard** and generated actionabl
 
 ## 👥 Customer Analysis Dashboard
 
-![Customer Analysis](Screenshots/Customer_Analysis.png)
+![Customer Analysis](Screenshots/Customer%20%Analysis.png)
 
 ---
 
