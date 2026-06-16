@@ -147,6 +147,6 @@ Successfully built an interactive **Power BI Dashboard** and generated actionabl
 
 **Shrusti**
 
-📧 LinkedIn Profile: *(Add Your LinkedIn URL)*
+📧 LinkedIn Profile: [*(https://www.linkedin.com/in/shrustinp/)*]
 
-💻 GitHub Profile: *(Add Your GitHub URL)*
+💻 GitHub Profile: [*(https://github.com/shru771)*]
